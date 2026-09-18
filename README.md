@@ -22,7 +22,8 @@
   <!-- Инструменты / IDE -->
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=intellij" height="40" alt="intellij idea logo"  />
+  <!-- Исправленная иконка IntelliJ IDEA через Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij idea logo"  />
 </div>
 
 ###
