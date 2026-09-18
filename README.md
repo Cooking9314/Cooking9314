@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I am Cooking</h1>
 
-<!--
-**Cooking9314/Cooking9314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?text=My+info&font=Fira+Code&color=36BCF7" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <!-- Языки программирования -->
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <!-- Инструменты / IDE -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=intellij" height="40" alt="intellij idea logo"  />
+</div>
+
+###
+
+<!-- Статистика GitHub для пользователя Cooking9314 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cooking9314&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
