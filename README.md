@@ -35,5 +35,5 @@
 
 > [!CAUTION]
 >
-> ### Muppet is evil! 
+> ### Mappet is evil! 
 > Don't use Mappet, it's a huge crutch! You're ruining your projects with its limitations.
