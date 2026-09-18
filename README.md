@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I am Cooking</h1>
+<h1 align="center">👋 Hi, I am Cooking</h1>
 
 
 ###
