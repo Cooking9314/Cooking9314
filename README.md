@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hi there, I am Cooking</h1>
 
-###
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?text=My+info&font=Fira+Code&color=36BCF7" alt="Typing SVG" />
-</p>
 
 ###
 
@@ -34,5 +29,5 @@
 
 <!-- Статистика GitHub для пользователя Cooking9314 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cooking9314&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cooking9314&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru&cache_seconds=0">
 </p>
