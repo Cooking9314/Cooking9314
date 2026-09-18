@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I am Cooking</h1>
 
-
 ###
+
+<h3 align="center">Languages & Frameworks</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -23,6 +24,8 @@
 
 ###
 
+<h3 align="center">Tools & DevOps</h3>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -41,14 +44,22 @@
 
 ###
 
+<h3 align="center">Databases</h3>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h3 align="center">Design & Other</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
