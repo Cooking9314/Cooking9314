@@ -52,5 +52,11 @@
 ###
 
 <p align="center">
+  <img src="https://github.com/Cooking9314/Cooking9314/blob/master/github-metrics.svg" alt="Metrics" />
+</p>
+
+###
+
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Cooking9314&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" alt="GitHub Stats" />
 </p>
