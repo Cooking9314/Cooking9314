@@ -1,75 +1,56 @@
-<h1 align="center">👋 Hi, I am Cooking</h1>
+<h1 align="center">👋 Hi, I am <b>Cooking</b></h1>
+<p align="center">
+  <em>Building robust applications and exploring new technologies.</em>
+</p>
 
 ###
 
-<h3 align="center">Languages & Frameworks</h3>
-
+<h3 align="center">💻 Languages & Frameworks</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40" alt="Lua" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" style="margin: 0 10px;" />
 </div>
 
 ###
 
-<h3 align="center">Tools & DevOps</h3>
-
+<h3 align="center">🛠️ Tools & DevOps</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij idea logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="Visual Studio" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40" alt="Gradle" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40" height="40" alt="CMake" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" style="margin: 0 10px;" />
 </div>
 
 ###
 
-<h3 align="center">Databases</h3>
-
+<h3 align="center">🗄️ Databases</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" style="margin: 0 10px;" />
 </div>
 
 ###
 
-<h3 align="center">Design & Other</h3>
-
+<h3 align="center">🎨 Design & Other</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown" style="margin: 0 10px;" />
 </div>
 
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Cooking9314&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Cooking9314&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" alt="GitHub Stats" />
 </p>
