@@ -1,8 +1,8 @@
 name: Metrics Profile
 on:
-  schedule: [{cron: "0 0 * * *"}] # Обновляется раз в день в полночь
-  workflow_dispatch: # Позволяет запустить вручную во вкладке Actions
-  push: {branches: ["main", "master"]} # Обновляется при пуше в основную ветку
+  schedule: [{cron: "0 0 * * *"}] # Обновление раз в день
+  workflow_dispatch: # Ручной запуск
+  push: {branches: ["main", "master"]} # Обновление при пуше
 
 jobs:
   github-metrics:
@@ -16,15 +16,16 @@ jobs:
           user: Cooking9314
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Moscow # Или твой часовой пояс
+          config_timezone: Europe/Moscow
           
-          # Плагины для детализации
+          # Базовые плагины, которые работают стабильно без дополнительных токенов
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8 # Показать топ-8 языков
+          plugin_languages_limit: 8
           plugin_languages_colors: github
           
-          # Дополнительно: можно включить отображение звезд и форков
-          plugin_repositories: yes
-          plugin_repositories_limit: 4
-          plugin_repositories_featured: Sunrise-Studios/your-game-repo # Замени на свой реальный репозиторий
+          # Если хочешь показать конкретные репозитории, раскомментируй строки ниже 
+          # и замени 'owner/repo' на реальный путь к твоему проекту (например, 'Cooking9314/Sunrise-Studios')
+          # plugin_repositories: yes
+          # plugin_repositories_limit: 2
+          # plugin_repositories_featured: Cooking9314/your-repo-name
