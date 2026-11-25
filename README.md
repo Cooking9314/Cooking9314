@@ -54,11 +54,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cooking9314/Cooking9314/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
-
-###
-
-<p align="center">
-  <!-- DAILY_QUOTE -->
-  <br>
-  <sub><!-- LAST_UPDATED --></sub>
-</p>
