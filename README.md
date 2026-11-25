@@ -52,7 +52,7 @@
 ###
 
 <p align="center">
-  <img src="https://github.com/Cooking9314/Cooking9314/blob/master/github-metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/Cooking9314/Cooking9314/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ###
